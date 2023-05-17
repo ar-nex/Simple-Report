@@ -4,6 +4,7 @@
 
 .link-card:hover{
     box-shadow: 14px 14px 12px -3px rgba(0,0,0,0.1);
+    background-color: lightblue;
 }
 
 a{
