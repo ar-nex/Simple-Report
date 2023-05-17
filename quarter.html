@@ -24,10 +24,10 @@
                   <div class="d-flex justify-content-center" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Monthly Report</a>
+                        <a class="nav-link" aria-current="page" href="index.html">Monthly Report</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="quarter.html">Quarterly Report</a>
+                        <a class="nav-link active" href="#">Quarterly Report</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="program.html">Program Report</a>
@@ -42,9 +42,9 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col">
-                <h1>Monthly reporting</h1>
+                <h1>Quarterly reporting</h1>
 
-                <div x-data="{links: monthlyReportLinks}">
+                <div x-data="{links: quarterlyReportLinks}">
                     <template x-for="link in links">
                        <a x-bind:href="link.link" target="_blank" class="btn btn-primary m-2" x-text="link.lbl"></a>
                     </template>
