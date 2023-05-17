@@ -1,23 +1,18 @@
 .link-card{
     transition: all .3s linear;
-    border-radius: 50px;
-    background: linear-gradient(145deg, #a6dcdd, #c5ffff);
-    box-shadow:  20px 20px 60px #9ccfd0,
-                -20px -20px 60px #d4ffff;
-    border: none;
-    width: 200px;
-    height: 180px;
+    border: 2px solid rgba(84,33,187, .3);
+    background: transparent;
 }
 
 .link-card:hover{
-    background: linear-gradient(145deg, #6dd3d5, hsla(216, 100%, 89%, 0.938));
-    transform: scale(1.05) rotate(3deg);
+    background: rgba(84,33,187, .3);
+    border: 2px solid rgba(84,33,187, 1);
 }
 
 a{
     text-decoration: none;
 }
-
-main{
-    background-color: #b8f4f5;
+.tx{
+    color: white;
 }
+
