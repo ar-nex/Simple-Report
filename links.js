@@ -60,57 +60,11 @@ const quarterlyReportLinks = [
         lbl: "Free Contraceptive Quarterly",
         link: "https://docs.google.com/spreadsheets/d/1GOUbSHgt-LCweAJeKmyjwQYg9VGzrUgeY1eDbDuXsPg/edit#gid=0"
     },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
+    
     
 ];
 
 
 const programReportLinks = [
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
-    {
-        lbl: "Report 1",
-        link: "https://google.com"
-    },
+    
 ];
