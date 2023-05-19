@@ -60,11 +60,35 @@ const quarterlyReportLinks = [
         lbl: "Free Contraceptive Quarterly",
         link: "https://docs.google.com/spreadsheets/d/1GOUbSHgt-LCweAJeKmyjwQYg9VGzrUgeY1eDbDuXsPg/edit#gid=0"
     },
-    
+    {
+        lbl: "PTK Report",
+        link: "https://docs.google.com/spreadsheets/d/1_uDC3DMMKNqscqtRT4rZJjwaPGjhe9-CdLKw_uERI54/edit#gid=0"
+    },
+    {
+        lbl: "LMIS",
+        link: "https://docs.google.com/spreadsheets/d/1LANeOXmUehch8SSNQmh4BLjKTOF-7N5hAozh3BJGrww/edit#gid=0"
+    },
+    {
+        lbl: "FPIS-IA-Entry",
+        link: "https://docs.google.com/spreadsheets/d/18L1N1f4x5iwhgjriQ6QfSVtzErOs_YLv2ttxo2hCxuY/edit#gid=0"
+    },
+    {
+        lbl: "ESB Entry Screen",
+        link: "https://docs.google.com/spreadsheets/d/1BeiT-qzUqJKJSzc7bBf2mDEUnnwHUtmISKzMb6jTmgE/edit#gid=0"
+    },
+    {
+        lbl: "Training Status Entry",
+        link: "https://docs.google.com/spreadsheets/d/1-CVi2ONQiwefJamwuyECffm2A5f2tWQIRNbIlSLeJ9g/edit#gid=0"
+    }
+   
     
 ];
 
 
 const programReportLinks = [
-    
+    {
+        lbl: "Reporting Format for Teenage week (22 to 30 May)",
+        link: "https://docs.google.com/spreadsheets/d/1Yl2E879qxLcDUk5rb3V26V8q4GVLqTNfT5WMOjQbODA/edit#gid=0"
+    }
+   
 ];
