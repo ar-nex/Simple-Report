@@ -1,0 +1,143 @@
+{
+    "name": "Alipurduar",
+    "children": [
+      {
+        "name": "Big Hospitals",
+        "children": [
+          { "name": "District Hospital" },
+          { "name": "Falakata SSH" },
+          { "name": "Birpara SGH" }
+        ]
+      },
+      {
+        "name": "Blocks",
+        "children": [
+          { 
+            "name": "Alipurduar - I",
+            "children":[
+                {"name": "RH"},
+                {"name" : "PHC"},
+                {
+                    "name" : "SC",
+                    "children" : [
+                        { "name": "Bairiguri" },
+                        { "name": "Banchukamari" },
+                        { "name": "Bholardabri I" },
+                        { "name": "Bholardabri II" },
+                        { "name": "Birpara I" },
+                        { "name": "Birpara II" },
+                        { "name": "Chechakhata" },
+                        { "name": "Chilapata" },
+                        { "name": "Dakshin ChakowaKheti" },
+                        { "name": "Dakshin Sonapur" },
+                        { "name": "Foskadanga" },
+                        { "name": "Ghagra" },
+                        { "name": "Jogendranagar" },
+                        { "name": "Kalabari" },
+                        { "name": "Madhya Jitpur" },
+                        { "name": "Madhya Patkapara" },
+                        { "name": "Mathura TG" },
+                        { "name": "Mathura TG Division" },
+                        { "name": "Munshipara PHC SC" },
+                        { "name": "Nathuatari" },
+                        { "name": "Natunpara" },
+                        { "name": "North Point" },
+                        { "name": "Pakuritola" },
+                        { "name": "Panchkolguri RH SC" },
+                        { "name": "Pararpar" },
+                        { "name": "Paschim Kathalbari" },
+                        { "name": "Patkapara TE" },
+                        { "name": "Pradhanpara" },
+                        { "name": "Purba Kathalbari" },
+                        { "name": "Purba Simlabari" },
+                        { "name": "Sidhabari" },
+                        { "name": "Silbarihat PHC SC" },
+                        { "name": "South Jitpur" },
+                        { "name": "Tapsikhata" },
+                        { "name": "Uttar Jitpur" },
+                        { "name": "Uttar Patkapara" },
+                        { "name": "UTTAR KAMSING" },
+                        { "name": "Kumarpara-2" },
+                        { "name": "DAKSHIN KAMSING -1" },
+                        { "name": "KUMARPARA-1" },
+                        { "name": "Paschim Simlabari" },
+                        { "name": "Jogendranagar-2" },
+                        { "name": "Sirubari" },
+                        { "name": "PASCHIM JITPUR" },
+                        { "name": "DAKSHIN BAIRIGURI" },
+                        { "name": "DAKSHIN KAMSING - 2" },
+                        { "name": "Suripara" },
+                        { "name": "Kalaberia" }
+                    ]
+                }
+            ]
+          },
+          { 
+            "name": "Alipurduar - II",
+            "children":[
+                {"name": "RH"},
+                {"name" : "PHC"},
+                {
+                    "name" : "SC",
+                    "children" : [
+                        { "name": "Turturi GP HQ SC" },
+                        { "name": "Dhawla Basti S/C" },
+                        { "name": "Turturi PHC" },
+                        { "name": "Lokenathpur S/C" },
+                        { "name": "Dhawlajhora  TG S/C" },
+                        { "name": "Kohinoor TG S/C" },
+                        { "name": "Kohinoor GP HWC" },
+                        { "name": "Baniadabri S/C" },
+                        { "name": "Pukhuria S/C" },
+                        { "name": "Samuktala S/C" },
+                        { "name": "Mahakalguri S/C" },
+                        { "name": "Bakla  SC" },
+                        { "name": "East Chepani S/C" },
+                        { "name": "Chepani S/C" },
+                        { "name": "Soudpara S/C" },
+                        { "name": "Kayakhata S/C" },
+                        { "name": "Uttar Majidkhana S/C" },
+                        { "name": "Jasodanga S/C" },
+                        { "name": "Uttar Sibkata S/C" },
+                        { "name": "Majherdabri GPHQ" },
+                        { "name": "Dakshin Dhalkar S/C" },
+                        { "name": "Uttar Panialguri S/C" },
+                        { "name": "Uttar Majherdabri S/C" },
+                        { "name": "Changpara S/C" },
+                        { "name": "Chaparerpar S/C" },
+                        { "name": "Chandirjhar S/C" },
+                        { "name": "Chaparerpar-II GP" },
+                        { "name": "Velukdabri S/C" },
+                        { "name": "Barachowki S/C" },
+                        { "name": "Boragari S/C" },
+                        { "name": "Bhatibari RH" },
+                        { "name": "Thanupara S/C" },
+                        { "name": "Khalishamari S/C" },
+                        { "name": "East Chikliguri S/C" },
+                        { "name": "Parokata GP" },
+                        { "name": "Uttar Parokata S/C" },
+                        { "name": "Madhya Parokata" },
+                        { "name": "Samuktala Village" },
+                        { "name": "Purbba Majherdabri Tea Garden" },
+                        { "name": "Kumarijan" },
+                        { "name": "Sobhaganj" },
+                        { "name": "Choto Chowkir Bose" },
+                        { "name": "Tatpara" },
+                        { "name": "Brajerkuthi" },
+                        { "name": "Samuktala Basti" },
+                        { "name": "Karjjipara" }
+                    ]
+                }
+            ]
+          },
+          { "name": "Falakata" },
+          { "name": "Kalchini" },
+          { "name": "Kumargram" },
+          { "name": "Madarihat" }
+        ]
+      },
+      {
+        "name" : "ULB"
+      }
+    ]
+  }
