@@ -21,7 +21,7 @@
             </div>
         </div>
     </div>
-
+ 
     <div class="container-fluid bg-primary">
         <div class="container">
             <nav class="navbar navbar-expand-md bg-body-primary" data-bs-theme="dark">
@@ -46,20 +46,28 @@
               </nav>
         </div>
     </div>
-
+    <main class="pb-4 bg-dark">
     <div class="container mt-4">
         <div class="row">
             <div class="col">
-                <h1>Quarterly reporting</h1>
+                <h1 class="text-center text-info mt-2">Quarterly reporting</h1>
+
 
                 <div x-data="{links: quarterlyReportLinks}">
-                    <template x-for="link in links">
-                       <a x-bind:href="link.link" target="_blank" class="btn btn-primary m-2" x-text="link.lbl"></a>
-                    </template>
-                </div>
+                  <template x-for="link in links">
+                     <a x-bind:href="link.link" target="_blank">
+                      <div class="card m-3 link-card">
+                          <div class="card-body">
+                              <p x-text="link.lbl" class="m-0 tx"></p>
+                          </div>
+                      </div>
+                     </a>
+                  </template>
+              </div>
             </div>
         </div>
     </div>
+    </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
   </body>
 </html>
