@@ -90,7 +90,7 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         });
     }
     // Sort the tree initially incase the JSON isn't in a sorted order.
-   // sortTree();
+    sortTree();
 
     // TODO: Pan function, can be better implemented.
 
