@@ -53,7 +53,7 @@ const monthlyReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/1dO9ZdRNsPQ8vnGBNENJWHEK-Xw5xfuJnffowDfgHGKs/edit#gid=113799590"
     },
     {
-        lbl: " DP - KPI Report ",
+        lbl: " DP - KPI Report",
         link: "https://docs.google.com/spreadsheets/d/1WDdL4ehEV_kDvl4_yePR9-mnD6jtvpbz7nD3xVUKR7w/edit#gid=766286292"
     },
     {
