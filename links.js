@@ -101,6 +101,10 @@ const programReportLinks = [
     {
         lbl: "PMMVY DATA COLLECTION",
         link: "https://docs.google.com/spreadsheets/d/1-9N0qgdhbvTw4xtJM4x5B0tQRM2iD_D2/edit#gid=607396150"
+    },
+    {
+        lbl: "LGD code link for PMMVY entry",
+        link:"https://lgdirectory.gov.in/"
     }
    
 ];
