@@ -16,7 +16,13 @@
             "name": "Alipurduar - I",
             "children":[
                 {"name": "RH"},
-                {"name" : "PHC"},
+                {
+                  "name" : "PHC (02)",
+                  "children":[
+                    {"name": "Munshipara PHC"},
+                    {"name": "Silbarihat PHC"}
+                  ]
+                },
                 {
                     "name" : "SC",
                     "children" : [
@@ -76,7 +82,13 @@
             "name": "Alipurduar - II",
             "children":[
                 {"name": "RH"},
-                {"name" : "PHC"},
+                {
+                  "name" : "PHC (02)",
+                  "children":[
+                    {"name" : "Samuktala PHC"},
+                    {"name" : "Turturi PHC"}
+                  ]
+                },
                 {
                     "name" : "SC",
                     "children" : [
@@ -130,10 +142,55 @@
                 }
             ]
           },
-          { "name": "Falakata" },
-          { "name": "Kalchini" },
-          { "name": "Kumargram" },
-          { "name": "Madarihat" }
+          { 
+            "name": "Falakata",
+            "children": [
+              {
+                "name" : "PHC (02)",
+                "children" : [
+                  {"name" : "Choto Salkumar PHC"},
+                  {"name" : "Jateswar PHC"}
+                ]
+              }
+            ]
+          },
+          { 
+            "name": "Kalchini",
+            "children" : [
+              {
+                "name" : "PHC (02)",
+                "children" : [
+                  {"name" : "Jaigoan PHC"},
+                  {"name" : "Satali PHC"}
+                ]
+              }
+            ]
+          },
+          { 
+            "name": "Kumargram",
+            "children": [
+              {
+                "name" : "PHC (02)",
+                "children" : [
+                  {"name" : "Barobisha PHC"},
+                  {"name" : "Kumargram PHC"}
+                ]
+              }
+            ]
+          },
+          { 
+            "name": "Madarihat",
+            "children" : [
+              {
+                "name" : "PHC (03)",
+                "children": [
+                  {"name" : "Madhya Rangalibazna PHC"},
+                  {"name" : "Sishujhumra PHC"},
+                  {"name" : "Totopara PHC"}
+                ]
+              }
+            ]
+          }
         ]
       },
       {
