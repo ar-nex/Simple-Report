@@ -53,12 +53,15 @@
             <div class="col">
                 <h1 class="text-center text-info mt-2">Quarterly reporting</h1>
                 <div x-data="{links: quarterlyReportLinks}">
-                  <template x-for="link in links">
+                  <template x-for="(link, index) in links">
                      <a x-bind:href="link.link" target="_blank">
-                      <div class="card m-3 link-card">
-                          <div class="card-body">
-                              <p x-text="link.lbl" class="m-0 tx"></p>
-                          </div>
+                      <div class="d-flex align-items-center">
+                        <div class="text-warning"><strong x-text="index+1"></strong></div>
+                        <div class="card m-3 link-card">
+                            <div class="card-body">
+                                <p x-text="link.lbl" class="m-0 tx"></p>
+                            </div>
+                        </div>
                       </div>
                      </a>
                   </template>
