@@ -105,6 +105,14 @@ const programReportLinks = [
     {
         lbl: "LGD code link for PMMVY entry",
         link:"https://lgdirectory.gov.in/"
+    },
+    {
+        lbl: "Village Transfer reg. (Matrima)",
+        link: "https://docs.google.com/spreadsheets/d/1wE5P_m8RRadhMAtdjAi6h6NYpZF5HU4ZG0hAJe0XPIU/edit#gid=0"
+    },
+    {
+        lbl : "Matrimaa Related Issues -Alipurduar",
+        link: "https://docs.google.com/spreadsheets/d/1SO35r7jCiOUID8A6DQPUnxqVrtwceLade4_zIYSnyzw/edit#gid=0",
     }
    
 ];
