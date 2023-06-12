@@ -19,3 +19,10 @@ a{
     color: rgba(84,33,187, 1);
 }
 
+.sml-text{
+    color:rgb(186, 135, 252);
+}
+
+.link-card:hover .sml-text{
+    color: rgb(172, 221, 250);
+}
