@@ -75,6 +75,11 @@ const monthlyReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/1vgaw0eAsovlvhz8QtevP8uErUZMhVfFi5mpGbq8VhYo/edit#gid=0",
         cap: "",
     },
+    {
+        lbl: "Maternal Death Line List form",
+        link: "https://forms.gle/1TfEffn62aoW8GWX9",
+        cap: "Only if any maternal death"
+    }
 ];
 
 
@@ -138,10 +143,6 @@ const programReportLinks = [
     {
         lbl: "Matrima village mapping / Tagging - List",
         link: "https://docs.google.com/spreadsheets/d/1jKFSPM1NWNIbYEdfdUOef32V2GcVgb7bPnk-7iSJWMA/edit#gid=0"
-    },
-    {
-        lbl: "Maternal Death Line List form",
-        link: "https://forms.gle/1TfEffn62aoW8GWX9"
     }
    
 ];
