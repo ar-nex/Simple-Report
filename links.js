@@ -79,13 +79,9 @@ const monthlyReportLinks = [
         lbl: "Maternal Death Line List form",
         link: "https://forms.gle/1TfEffn62aoW8GWX9",
         cap: "Only if any maternal death"
-    }
-];
-
-
-const quarterlyReportLinks = [
+    },
     {
-        lbl: "Free Contraceptive Quarterly",
+        lbl: "Free Contraceptive Monthly",
         link: "https://docs.google.com/spreadsheets/d/1GOUbSHgt-LCweAJeKmyjwQYg9VGzrUgeY1eDbDuXsPg/edit#gid=0",
         cap: "",
     },
@@ -114,6 +110,11 @@ const quarterlyReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/1-CVi2ONQiwefJamwuyECffm2A5f2tWQIRNbIlSLeJ9g/edit#gid=0",
         cap: ""
     }
+];
+
+
+const quarterlyReportLinks = [
+    
    
     
 ];
