@@ -11,7 +11,8 @@ const monthlyReportLinks = [
     },
     {
         lbl: "Monthly VHND Report",
-        link: "https://docs.google.com/spreadsheets/d/1W3XbWHwcJQBmDLQrzdkLPb_kbJm2Rr1u/edit#gid=490395539",
+        // link: "https://docs.google.com/spreadsheets/d/1W3XbWHwcJQBmDLQrzdkLPb_kbJm2Rr1u/edit#gid=490395539",
+        link: "https://docs.google.com/spreadsheets/d/15OmFjPmT-CbAr5tpkc4d0CjhowoUHI_f9ZFrnMWS0iE/edit#gid=905770280",
         cap: "Only block"
     },
     
@@ -22,7 +23,8 @@ const monthlyReportLinks = [
     },
     {
         lbl: "Convergence of RCH activities between H&FW Dept. and WCD Dept Monthly Summary Report",
-        link: "https://docs.google.com/spreadsheets/d/1_3luXGYIA2Mz-b35rpgKDoyRGxROdV8xfla9WrXWW-k/edit#gid=1475702122",
+        // link: "https://docs.google.com/spreadsheets/d/1_3luXGYIA2Mz-b35rpgKDoyRGxROdV8xfla9WrXWW-k/edit#gid=1475702122",
+        link: "https://docs.google.com/spreadsheets/d/1Yxyn5gH-pE6nPju26pZ5pDIdTjxwm-70YwASBU5aYn0/edit#gid=1779311395",
         cap: "Only block"
     },
     {
@@ -57,7 +59,8 @@ const monthlyReportLinks = [
     },
     {
         lbl: "Monthly Antenatal Corticosteroid Report 2023-24 - COMPILED",
-        link: "https://docs.google.com/spreadsheets/d/1tmyPiV2tCNAzJbl6lIOSNmZHomv4VWAp/edit#gid=1471033130",
+        // link: "https://docs.google.com/spreadsheets/d/1tmyPiV2tCNAzJbl6lIOSNmZHomv4VWAp/edit#gid=1471033130",
+        link: "https://docs.google.com/spreadsheets/d/1bqG1f-e59fphtVjS4ylKMlRyi2SWBFZvtvACklhdK84/edit#gid=1985017310",
         cap: ""
     },
     {
