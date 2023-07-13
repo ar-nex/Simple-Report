@@ -112,6 +112,16 @@ const monthlyReportLinks = [
         lbl: "Training Status Entry",
         link: "https://docs.google.com/spreadsheets/d/1-CVi2ONQiwefJamwuyECffm2A5f2tWQIRNbIlSLeJ9g/edit#gid=0",
         cap: ""
+    },
+    {
+        lbl: "IFA Supplementation Program",
+        link: "https://docs.google.com/spreadsheets/d/1rBnHur_lrgkChAKUKRjbfz3y6QWZY1ESczpXkJ3UhB4/edit#gid=0",
+        cap: ""
+    },
+    {
+        lbl: "Bi-annual Vitamin A, 2023",
+        link: "https://docs.google.com/spreadsheets/d/1oYLSu7Icrtg_UNYnnfS4z4r3LdIA9iCwDORMRk9aMy8/edit#gid=0",
+        cap: ""
     }
 ];
 
