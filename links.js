@@ -149,9 +149,13 @@ const programReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/1Yl2E879qxLcDUk5rb3V26V8q4GVLqTNfT5WMOjQbODA/edit#gid=0"
     },
     {
-        lbl: "PMMVY DATA COLLECTION",
-        link: "https://docs.google.com/spreadsheets/d/1-9N0qgdhbvTw4xtJM4x5B0tQRM2iD_D2/edit#gid=607396150"
+        lbl: "PMMVY Duplicate AWC removing",
+        link: "https://docs.google.com/spreadsheets/d/1CyMTFi6dTZtkzrE9Idj-zgJzOKye3MQVyymMol0jIxs/edit#gid=261352030"
     },
+    // {
+    //     lbl: "PMMVY DATA COLLECTION",
+    //     link: "https://docs.google.com/spreadsheets/d/1-9N0qgdhbvTw4xtJM4x5B0tQRM2iD_D2/edit#gid=607396150"
+    // },
     {
         lbl: "LGD code link for PMMVY entry",
         link:"https://lgdirectory.gov.in/"
