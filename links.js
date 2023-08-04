@@ -132,6 +132,21 @@ const quarterlyReportLinks = [
     
 ];
 
+const imiLinks = [
+    {
+        lbl: "IMI 5.0 Preparedness",
+        link: "https://docs.google.com/spreadsheets/d/1eswlVjzwxGSoK4htKUpdXiw2W2UXEKzcs3fvfRo9g7M/edit#gid=243446749",
+        cap: "Block & Municipality"
+    },
+    {
+        lbl: "IMI 5.0 Reporting and target",
+        link: "https://docs.google.com/spreadsheets/d/18IGbj9esWrHeKji-PuDnTU-nsL80FE9Mwbsg9SKzOgs/edit#gid=1847085488",
+        cap: "Block & Municipality"
+    }
+   
+    
+];
+
 
 const programReportLinks = [
     {
@@ -139,11 +154,7 @@ const programReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/1jiR5NKyRNzlkQPuC6ioJgLjUS0GHy_HwZn_1-o2KX6k/edit#gid=0",
         cap: "Block Only"
     },
-    {
-        lbl: "IMI 5.0 Preparedness",
-        link: "https://docs.google.com/spreadsheets/d/1eswlVjzwxGSoK4htKUpdXiw2W2UXEKzcs3fvfRo9g7M/edit#gid=243446749",
-        cap: "Block & Municipality"
-    },
+    
     {
         lbl: "Reporting Format for Teenage week (22 to 30 May)",
         link: "https://docs.google.com/spreadsheets/d/1Yl2E879qxLcDUk5rb3V26V8q4GVLqTNfT5WMOjQbODA/edit#gid=0"
