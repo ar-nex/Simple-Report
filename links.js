@@ -155,6 +155,11 @@ const programReportLinks = [
         cap: "Block | ULB"
     },
     {
+        lbl: "Gram Panchayat of Schemes (HWC/SC etc.)",
+        link: "https://docs.google.com/spreadsheets/d/1ZNBxFF8-nW0eqerGG0oe_7MKeLe8rOxzoASrYZOaIlA/edit#gid=2056874512",
+        cap : "Block"
+    },
+    {
         lbl: "IDCF",
         link: "https://docs.google.com/spreadsheets/d/19l-DD-zcCmHFz0JxJMMshcZeaRl5jSWq2QA9xJYRT-4/edit#gid=0",
         cap: "DH | SGH | Block | UPHC"
