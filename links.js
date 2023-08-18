@@ -150,6 +150,11 @@ const imiLinks = [
 
 const programReportLinks = [
     {
+        lbl : "HMIS training status",
+        link: "https://docs.google.com/spreadsheets/d/1KsFgJgyBB0E7CMZFncF8K32-55D72pUClMBX5vuU3bA/edit#gid=0",
+        cap: "Block | ULB"
+    },
+    {
         lbl: "IDCF",
         link: "https://docs.google.com/spreadsheets/d/19l-DD-zcCmHFz0JxJMMshcZeaRl5jSWq2QA9xJYRT-4/edit#gid=0",
         cap: "DH | SGH | Block | UPHC"
