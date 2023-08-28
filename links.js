@@ -142,6 +142,11 @@ const imiLinks = [
         lbl: "IMI 5.0 Reporting and target",
         link: "https://docs.google.com/spreadsheets/d/18IGbj9esWrHeKji-PuDnTU-nsL80FE9Mwbsg9SKzOgs/edit#gid=1847085488",
         cap: "Block & Municipality"
+    },
+    {
+        lbl: "IMI Round 1 MR1 and MR2",
+        link: "https://docs.google.com/spreadsheets/d/1S6LzRgkyAN0elYJuy3NRCUYblQZCtwzzw0LlO7DEH10/edit#gid=0",
+        cap: "Block & Municipality"
     }
    
     
