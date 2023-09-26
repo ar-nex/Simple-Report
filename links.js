@@ -84,6 +84,11 @@ const monthlyReportLinks = [
         cap: "Only if any maternal death"
     },
     {
+        lbl: "Maternal Death Line list view",
+        link: "https://docs.google.com/spreadsheets/d/1j4TtkJJUArSiX3GQMUOdVCXXLm2TQyL4M86J7nBQANc/edit#gid=1348629375",
+        cap: "VIEW ONLY"
+    },
+    {
         lbl: "Free Contraceptive Monthly",
         link: "https://docs.google.com/spreadsheets/d/1GOUbSHgt-LCweAJeKmyjwQYg9VGzrUgeY1eDbDuXsPg/edit#gid=0",
         cap: "",
