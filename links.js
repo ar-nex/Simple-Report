@@ -160,6 +160,16 @@ const imiLinks = [
 
 const programReportLinks = [
     {
+        lbl : "Pending PMMVY mapping",
+        link: "https://docs.google.com/spreadsheets/d/1-NS1sfP0P8iaGBLdA66nYJeI0KIggqGObyAESysarGQ/edit#gid=1909598474",
+        cap: "Block | ULB"
+    },
+    {
+        lbl : "Village LGD code for PMMVY mapping",
+        link: "https://docs.google.com/spreadsheets/d/1369TBQiQwn8h7RfyecUJIth86EiUYboX/edit#gid=1173085824",
+        cap: "Block"
+    },
+    {
         lbl : "HMIS training status",
         link: "https://docs.google.com/spreadsheets/d/1KsFgJgyBB0E7CMZFncF8K32-55D72pUClMBX5vuU3bA/edit#gid=0",
         cap: "Block | ULB"
