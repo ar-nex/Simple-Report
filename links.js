@@ -177,11 +177,11 @@ const imiLinks = [
 const programReportLinks = [
     {
         lbl : "Pending PMMVY mapping",
-        link: "https://docs.google.com/spreadsheets/d/1-NS1sfP0P8iaGBLdA66nYJeI0KIggqGObyAESysarGQ/edit#gid=1790412552",
+        link: "https://docs.google.com/spreadsheets/d/1-NS1sfP0P8iaGBLdA66nYJeI0KIggqGObyAESysarGQ/edit#gid=1909598474",
         cap: "Block | ULB"
     },
     {
-        lbl : "LGD code of villages",
+        lbl : "Village LGD code for PMMVY mapping",
         link: "https://docs.google.com/spreadsheets/d/1369TBQiQwn8h7RfyecUJIth86EiUYboX/edit#gid=1173085824",
         cap: "Block"
     },
