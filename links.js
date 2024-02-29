@@ -176,6 +176,16 @@ const imiLinks = [
 
 const programReportLinks = [
     {
+        lbl : "Pending PMMVY mapping",
+        link: "https://docs.google.com/spreadsheets/d/1-NS1sfP0P8iaGBLdA66nYJeI0KIggqGObyAESysarGQ/edit#gid=1790412552",
+        cap: "Block | ULB"
+    },
+    {
+        lbl : "LGD code of villages",
+        link: "https://docs.google.com/spreadsheets/d/1369TBQiQwn8h7RfyecUJIth86EiUYboX/edit#gid=1173085824",
+        cap: "Block"
+    },
+    {
         lbl : "HMIS training status",
         link: "https://docs.google.com/spreadsheets/d/1KsFgJgyBB0E7CMZFncF8K32-55D72pUClMBX5vuU3bA/edit#gid=0",
         cap: "Block | ULB"
@@ -200,18 +210,18 @@ const programReportLinks = [
         lbl: "Reporting Format for Teenage week (22 to 30 May)",
         link: "https://docs.google.com/spreadsheets/d/1Yl2E879qxLcDUk5rb3V26V8q4GVLqTNfT5WMOjQbODA/edit#gid=0"
     },
-    {
-        lbl: "PMMVY Duplicate AWC removing",
-        link: "https://docs.google.com/spreadsheets/d/1CyMTFi6dTZtkzrE9Idj-zgJzOKye3MQVyymMol0jIxs/edit#gid=261352030"
-    },
+    // {
+    //     lbl: "PMMVY Duplicate AWC removing",
+    //     link: "https://docs.google.com/spreadsheets/d/1CyMTFi6dTZtkzrE9Idj-zgJzOKye3MQVyymMol0jIxs/edit#gid=261352030"
+    // },
     // {
     //     lbl: "PMMVY DATA COLLECTION",
     //     link: "https://docs.google.com/spreadsheets/d/1-9N0qgdhbvTw4xtJM4x5B0tQRM2iD_D2/edit#gid=607396150"
     // },
-    {
-        lbl: "LGD code link for PMMVY entry",
-        link:"https://lgdirectory.gov.in/"
-    },
+    // {
+    //     lbl: "LGD code link for PMMVY entry",
+    //     link:"https://lgdirectory.gov.in/"
+    // },
     {
         lbl: "Village Transfer reg. (Matrima)",
         link: "https://docs.google.com/spreadsheets/d/1wE5P_m8RRadhMAtdjAi6h6NYpZF5HU4ZG0hAJe0XPIU/edit#gid=0"
