@@ -113,11 +113,11 @@ const monthlyReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/1BeiT-qzUqJKJSzc7bBf2mDEUnnwHUtmISKzMb6jTmgE/edit#gid=0",
         cap: "",
     },
-    {
-        lbl: "Training Status Entry",
-        link: "https://docs.google.com/spreadsheets/d/1-CVi2ONQiwefJamwuyECffm2A5f2tWQIRNbIlSLeJ9g/edit#gid=0",
-        cap: ""
-    },
+    // {
+    //     lbl: "Training Status Entry",
+    //     link: "https://docs.google.com/spreadsheets/d/1-CVi2ONQiwefJamwuyECffm2A5f2tWQIRNbIlSLeJ9g/edit#gid=0",
+    //     cap: ""
+    // },
     {
         lbl: "IFA Supplementation Program",
         link: "https://docs.google.com/spreadsheets/d/1rBnHur_lrgkChAKUKRjbfz3y6QWZY1ESczpXkJ3UhB4/edit#gid=0",
