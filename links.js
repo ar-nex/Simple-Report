@@ -201,6 +201,11 @@ const programReportLinks = [
         cap: "DH | SGH | Block | UPHC"
     },
     {
+        lbl: "ELA break up : 2024-25",
+        link: "https://docs.google.com/spreadsheets/d/1djGpvo_2xKWae9TdrpOPz3Z96JfFMw_ZhtlvM4BgvkU/edit?gid=0#gid=0",
+        cap: "Block Only"
+    },
+    {
         lbl: "ELA break up : 2023-24",
         link: "https://docs.google.com/spreadsheets/d/1jiR5NKyRNzlkQPuC6ioJgLjUS0GHy_HwZn_1-o2KX6k/edit#gid=0",
         cap: "Block Only"
