@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Maternal Death Form</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+    }
+    .form-section {
+      background: #fff;
+      border-radius: 1.25rem;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      padding: 2rem 2rem 1.5rem 2rem;
+      margin-bottom: 2rem;
+    }
+    .form-title {
+      color: #0d6efd;
+      font-size: 1.4rem;
+      font-weight: 700;
+      margin-bottom: 1.5rem;
+      letter-spacing: 0.01em;
+    }
+    .form-label {
+      font-weight: 600;
+      color: #222;
+      margin-bottom: 0.25rem;
+    }
+    .form-input, .form-select, .form-textarea {
+      border-radius: 0.75rem;
+      border: 1px solid #e5e7eb;
+      background: #f8fafc;
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      width: 100%;
+      transition: border 0.2s;
+    }
+    .form-input:focus, .form-select:focus, .form-textarea:focus {
+      border-color: #0d6efd;
+      outline: none;
+      background: #fff;
+    }
+    .section-divider {
+      border-top: 2px solid #e5e7eb;
+      margin: 2rem 0 1.5rem 0;
+    }
+    @media (max-width: 600px) {
+      .form-section {
+        padding: 1rem 0.5rem;
+      }
+    }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center p-2">
+  <form method="POST" class="kf-form w-full max-w-3xl mx-auto" action="https://kwesforms.com/api/f/GinKpeeXinEYwSYmVDoS">
+    <div class="form-section">
+      <div class="form-title">Referral & Death/Delivery Details</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div><label class="form-label">District where maternal death occurred</label><input type="text" name="death_district" class="form-input" /></div>
+        <div><label class="form-label">Block / Municipality where maternal death occurred</label><input type="text" name="death_block" class="form-input" /></div>
+        <div><label class="form-label">Place of Death</label>
+          <select name="place_of_death" class="form-select">
+            <option value="">Select</option>
+            <option value="Home">Home</option>
+            <option value="Transit">Transit</option>
+            <option value="Govt. Facility">Govt. Facility</option>
+            <option value="Pvt. Facility">Pvt. Facility</option>
+          </select>
+        </div>
+        <div><label class="form-label">Facility where maternal death occurred</label><input type="text" name="facility_death" class="form-input" /></div>
+        <div><label class="form-label">Place of Delivery</label>
+          <select name="place_of_delivery" class="form-select">
+            <option value="">Select</option>
+            <option value="Home">Home</option>
+            <option value="Transit">Transit</option>
+            <option value="Govt. Facility">Govt. Facility</option>
+            <option value="Pvt. Facility">Pvt. Facility</option>
+          </select>
+        </div>
+        <div><label class="form-label">Mode of Delivery</label><input type="text" name="mode_of_delivery" class="form-input" /></div>
+        <div><label class="form-label">Pregnancy Outcome</label><input type="text" name="pregnancy_outcome" class="form-input" /></div>
+        <div><label class="form-label">Period Of Death *</label>
+          <select name="period_of_death" rules="required" class="form-select">
+            <option value="">Select</option>
+            <option value="AN < 20 wks">AN &lt; 20 wks</option>
+            <option value="AN > 20 wks">AN &gt; 20 wks</option>
+            <option value="Intrapartum">Intrapartum</option>
+            <option value="Postpartum">Postpartum</option>
+          </select>
+        </div>
+        <div><label class="form-label">Referred from other facility *</label>
+          <select name="referred" rules="required" class="form-select">
+            <option value="">Select</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        </div>
+        <div><label class="form-label">Referred District</label><input type="text" name="referred_district" class="form-input" /></div>
+        <div><label class="form-label">Referred Block / Municipality</label><input type="text" name="referred_block" class="form-input" /></div>
+        <div><label class="form-label">Referred Facility Type</label>
+          <select name="referred_type" class="form-select">
+            <option value="">Select</option>
+            <option value="Govt. Facility">Govt. Facility</option>
+            <option value="Pvt. Facility">Pvt. Facility</option>
+          </select>
+        </div>
+        <div><label class="form-label">Referred Facility Name</label><input type="text" name="referred_facility" class="form-input" /></div>
+        <div><label class="form-label">Cause of referral</label><input type="text" name="referral_cause" class="form-input" /></div>
+        <div><label class="form-label">Management given by referring facility</label><input type="text" name="referral_management" class="form-input" /></div>
+        <div><label class="form-label">Date and time of admission (if facility death)</label><input type="datetime-local" name="admission_datetime" class="form-input" /></div>
+        <div><label class="form-label">District where PW delivered</label><input type="text" name="delivered_district" class="form-input" /></div>
+        <div><label class="form-label">Block / Municipality where PW delivered</label><input type="text" name="delivered_block" class="form-input" /></div>
+        <div><label class="form-label">Facility where PW delivered</label><input type="text" name="delivered_facility" class="form-input" /></div>
+        <div><label class="form-label">Facility where PW delivered (Other State)</label><input type="text" name="delivered_other_state_facility" class="form-input" /></div>
+        <div><label class="form-label">Date and time of delivery</label><input type="datetime-local" name="delivery_datetime" class="form-input" /></div>
+        <div class="md:col-span-2"><label class="form-label">Intervention done in the facility</label><input type="text" name="intervention_done" class="form-input" /></div>
+      </div>
+    </div>
+    <div class="section-divider"></div>
+    <div class="form-section">
+      <div class="form-title">Review Information</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div><label class="form-label">Whether Facility based review done *</label>
+          <select name="facility_review_done" rules="required" class="form-select">
+            <option value="">Select</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        </div>
+        <div><label class="form-label">Facility based review date</label><input type="date" name="facility_review_date" class="form-input" /></div>
+        <div><label class="form-label">Whether Community based review done *</label>
+          <select name="community_review_done" rules="required" class="form-select">
+            <option value="">Select</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        </div>
+        <div class="md:col-span-2"><label class="form-label">Observations of review</label><textarea name="review_observations" class="form-textarea" rows="3"></textarea></div>
+        <div><label class="form-label">Any preventable cause identified *</label>
+          <select name="preventable_cause" rules="required" class="form-select">
+            <option value="">Select</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="flex justify-end mt-6">
+      <button type="submit" class="px-6 py-2 rounded-lg bg-blue-600 text-white font-semibold shadow hover:bg-blue-700 transition">Submit</button>
+    </div>
+  </form>
+</body>
+</html>
