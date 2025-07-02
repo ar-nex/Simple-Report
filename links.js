@@ -80,12 +80,12 @@ const monthlyReportLinks = [
     },
     {
         lbl: "Maternal Death Line List form",
-        link: "https://forms.gle/1TfEffn62aoW8GWX9",
+        link: "https://forms.gle/RDS8HpoEzgS3ceFNA",
         cap: "Only if any maternal death"
     },
     {
         lbl: "Maternal Death Line list view",
-        link: "https://docs.google.com/spreadsheets/d/1j4TtkJJUArSiX3GQMUOdVCXXLm2TQyL4M86J7nBQANc/edit#gid=1348629375",
+        link: "https://docs.google.com/spreadsheets/d/1zxiVtSHVOJOIYXmrb5FolRnP6DWGRe5Cbc9srQpIbu0/edit?usp=sharing",
         cap: "VIEW ONLY"
     },
     {
