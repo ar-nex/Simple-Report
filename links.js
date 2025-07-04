@@ -108,6 +108,14 @@ const monthlyReportLinks = [
         link: "https://docs.google.com/spreadsheets/d/18L1N1f4x5iwhgjriQ6QfSVtzErOs_YLv2ttxo2hCxuY/edit#gid=0",
         cap: "",
     },
+
+    {
+        lbl: "MPV - Nayi Pehl-FP kits report",
+        link: "https://docs.google.com/spreadsheets/d/1nVmWsTfHW1zzs3uFeCufkl_ZNlQHYLDayXdF8jT2Vy4/edit?gid=0#gid=0",
+        cap: "",
+    },
+
+
     {
         lbl: "ESB Entry Screen",
         link: "https://docs.google.com/spreadsheets/d/1BeiT-qzUqJKJSzc7bBf2mDEUnnwHUtmISKzMb6jTmgE/edit#gid=0",
