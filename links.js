@@ -112,7 +112,7 @@ const monthlyReportLinks = [
     {
         lbl: "MPV - Nayi Pehl-FP kits report",
         link: "https://docs.google.com/spreadsheets/d/1nVmWsTfHW1zzs3uFeCufkl_ZNlQHYLDayXdF8jT2Vy4/edit?gid=0#gid=0",
-        cap: "",
+        cap: "Block and Municipality",
     },
 
 
@@ -132,7 +132,7 @@ const monthlyReportLinks = [
         cap: ""
     },
     {
-        lbl: "Bi-annual Vitamin A, 2024",
+        lbl: "Bi-annual Vitamin A",
         link: "https://docs.google.com/spreadsheets/d/1oYLSu7Icrtg_UNYnnfS4z4r3LdIA9iCwDORMRk9aMy8/edit#gid=0",
         cap: ""
     }
